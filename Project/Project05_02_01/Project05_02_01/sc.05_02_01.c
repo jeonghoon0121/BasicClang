@@ -1,10 +1,8 @@
 /*
-05_02 함수정의, 함수호출
+05_02 함수정의, 함수호출 , 매개변수
 
 20250711 JeongHoon0121
 */
-#include <stdio.h>
-
 /*
 함수 정의
 
@@ -14,22 +12,27 @@
 반환값 return result; (int)
 
 */
+/*
 int Sum(int value1, int value2)
 {
 	int result = value1 + value2;
 	return result;
 }
+*/
 /*
 함수 호출
 
 호출자 : caller
 피호출자 : callee 
 */
+/*
 void main()
 {
 	int a = 2, b = 3;
 	int value = Sum(2, 3);	//이 라인의 Sum 은 caller이고 main함수 위의 정의된 callee,피호출자함수를 호출한다.
+
 }
+*/
 /*
 함수 호출과정
 1. main함수에서 Sum함수를 호출하며 a,b의 value를 Sum함수에 전달
@@ -39,5 +42,17 @@ void main()
 */
 /*
 매개변수
-프로그램에서 사용하는 데이터는 필요할 때만 존재하는 효율적 함수에서 필요할 때 만들었다가 함수가 끝날때 사라짐
+Sum 함수가 main 함수의 변수 a,b를 직접 사용할 수 없어서 매개변수 int value1, int value2를 이용하여 사용
 */
+#include <stdio.h>
+int Sum(int value1, int value2)
+{
+	int result = value1 + value2;
+	return result;
+}
+void main()
+{
+	int s;
+	s = Sum(2, 3);
+	printf("Sum함수의 결과는 %d\n", s);
+}
