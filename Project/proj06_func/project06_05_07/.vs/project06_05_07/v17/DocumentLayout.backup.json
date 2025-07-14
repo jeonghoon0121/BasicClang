@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CStudy\\Basic\\Project\\proj06_func\\project06_05_07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F015E39-2859-46E0-879C-DD263F3E8E4F}|project06_05_07\\project06_05_07.vcxproj|C:\\CStudy\\Basic\\Project\\proj06_func\\project06_05_07\\project06_05_07\\sc06_05_07.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F015E39-2859-46E0-879C-DD263F3E8E4F}|project06_05_07\\project06_05_07.vcxproj|solutionrelative:project06_05_07\\sc06_05_07.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sc06_05_07.c",
+              "DocumentMoniker": "C:\\CStudy\\Basic\\Project\\proj06_func\\project06_05_07\\project06_05_07\\sc06_05_07.c",
+              "RelativeDocumentMoniker": "project06_05_07\\sc06_05_07.c",
+              "ToolTip": "C:\\CStudy\\Basic\\Project\\proj06_func\\project06_05_07\\project06_05_07\\sc06_05_07.c",
+              "RelativeToolTip": "project06_05_07\\sc06_05_07.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-14T08:31:30.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
