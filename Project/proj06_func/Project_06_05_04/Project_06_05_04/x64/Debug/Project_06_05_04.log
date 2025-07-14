@@ -1,0 +1,3 @@
+﻿  sc06_05_04.c
+C:\CStudy\Basic\Project\proj06_func\Project_06_05_04\Project_06_05_04\sc06_05_04.c(15,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+  Project_06_05_04.vcxproj -> C:\CStudy\Basic\Project\proj06_func\Project_06_05_04\x64\Debug\Project_06_05_04.exe
