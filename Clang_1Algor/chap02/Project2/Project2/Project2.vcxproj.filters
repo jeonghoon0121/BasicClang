@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="intary.init.c">
+    <ClCompile Include="intary.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="intary_init.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

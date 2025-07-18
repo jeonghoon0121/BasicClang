@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\CStudy\\Basic\\Clang_1Algor\\chap02\\Project2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ECC06568-6F13-4314-99EE-45ACA764D391}|Project2\\Project2.vcxproj|C:\\CStudy\\Basic\\Clang_1Algor\\chap02\\Project2\\Project2\\intary.init.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{ECC06568-6F13-4314-99EE-45ACA764D391}|Project2\\Project2.vcxproj|solutionrelative:Project2\\intary.init.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{ECC06568-6F13-4314-99EE-45ACA764D391}|Project2\\Project2.vcxproj|C:\\CStudy\\Basic\\Clang_1Algor\\chap02\\Project2\\Project2\\intary_init.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECC06568-6F13-4314-99EE-45ACA764D391}|Project2\\Project2.vcxproj|solutionrelative:Project2\\intary_init.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC06568-6F13-4314-99EE-45ACA764D391}|Project2\\Project2.vcxproj|C:\\CStudy\\Basic\\Clang_1Algor\\chap02\\Project2\\Project2\\intary.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECC06568-6F13-4314-99EE-45ACA764D391}|Project2\\Project2.vcxproj|solutionrelative:Project2\\intary.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "intary.init.c",
-              "DocumentMoniker": "C:\\CStudy\\Basic\\Clang_1Algor\\chap02\\Project2\\Project2\\intary.init.c",
-              "RelativeDocumentMoniker": "Project2\\intary.init.c",
-              "ToolTip": "C:\\CStudy\\Basic\\Clang_1Algor\\chap02\\Project2\\Project2\\intary.init.c",
-              "RelativeToolTip": "Project2\\intary.init.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Title": "intary_init.c",
+              "DocumentMoniker": "C:\\CStudy\\Basic\\Clang_1Algor\\chap02\\Project2\\Project2\\intary_init.c",
+              "RelativeDocumentMoniker": "Project2\\intary_init.c",
+              "ToolTip": "C:\\CStudy\\Basic\\Clang_1Algor\\chap02\\Project2\\Project2\\intary_init.c*",
+              "RelativeToolTip": "Project2\\intary_init.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-18T14:25:13.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "intary.c",
+              "DocumentMoniker": "C:\\CStudy\\Basic\\Clang_1Algor\\chap02\\Project2\\Project2\\intary.c",
+              "RelativeDocumentMoniker": "Project2\\intary.c",
+              "ToolTip": "C:\\CStudy\\Basic\\Clang_1Algor\\chap02\\Project2\\Project2\\intary.c",
+              "RelativeToolTip": "Project2\\intary.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-07-18T13:37:35.286Z",
               "EditorCaption": ""

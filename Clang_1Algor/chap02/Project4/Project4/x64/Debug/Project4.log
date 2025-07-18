@@ -1,0 +1,3 @@
+﻿  intdynamic.c
+C:\CStudy\Basic\Clang_1Algor\chap02\Project4\Project4\intdynamic.c(21,3): warning C4550: 식이 인수 목록이 없는 함수로 계산됩니다.
+  Project4.vcxproj -> C:\CStudy\Basic\Clang_1Algor\chap02\Project4\x64\Debug\Project4.exe
