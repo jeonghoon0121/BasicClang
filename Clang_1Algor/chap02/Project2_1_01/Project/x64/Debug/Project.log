@@ -1,4 +1,0 @@
-﻿  intary.c
-intary_inic.obj : error LNK2005: main이(가) intary.obj에 이미 정의되어 있습니다.
-intary_inic.obj : error LNK2019: printmain 함수에서 참조되는 확인할 수 없는 외부 기호
-C:\CStudy\Basic\Clang_1Algor\chap02\Project\x64\Debug\Project.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.

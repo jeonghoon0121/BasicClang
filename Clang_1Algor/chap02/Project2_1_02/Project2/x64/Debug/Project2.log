@@ -1,4 +1,0 @@
-﻿  intary_init.c
-  LINK : C:\CStudy\Basic\Clang_1Algor\chap02\Project2\x64\Debug\Project2.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
-intary_init.obj : error LNK2005: main이(가) intary.obj에 이미 정의되어 있습니다.
-C:\CStudy\Basic\Clang_1Algor\chap02\Project2\x64\Debug\Project2.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
